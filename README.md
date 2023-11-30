@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ola Sou o Graça José+apaixonado por informática+Javascript+PHP;angolano+um cara divertido+Seja+Bemvindo)](https://git.io/typing-svg)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huimajose)](https://github.com/ashutosh00710/github-readme-activity-graph)### 👋
 
 <!--
