@@ -3,8 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huimajose)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huimajose)](https://github.com/ashutosh00710/github-readme-activity-graph)### 👋
 
-
-[![committers.top badge](https://user-badge.committers.top/angola/huimajose.svg)](https://user-badge.committers.top/angola/huimajose)
+<img src="https://img.shields.io/badge/dynamic/json?color=green&label=contribution&style=for-the-badge&logo=github&query=contribution&url=https://raw.githubusercontent.com/ankitsumitg/github-user-contributions/main/api/v1/huimajose/LIFETIME.json" alt="Contribution Badge">
 
 <!--
 **huimajose/huimajose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
